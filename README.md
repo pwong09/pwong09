@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning JavaScript, Python, and C#
 
 Full-Stack Software Developer with a background in economics and community organizing.   
-Leveraging strong organizational and analytical skills to remedy consumer and business issues.   
 Passionate about accessible products and improving user experiences and engagement.   
-Holistic, empathy-first approach in collaborations with cross-functional teams.
+As an experienced organizer, I approach work with a holistic lens, a strong work ethic, and a collaborative mindset.  
+
