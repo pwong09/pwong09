@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pearl Wong
 - 👀 I’m interested in game dev and cybersecurity
-- 🌱 I’m currently learning JavaScript, Python, and C#
+- 🌱 I’m currently learning JavaScript, Python, Ruby and C#
 
 Full-Stack Software Developer with a background in economics and community organizing.   
 Passionate about accessible products and improving user experiences and engagement.   
