@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pearl Wong
+- 👋 Hi, I’m Pearl Wong (they/them)
 - 👀 I’m interested in improving my full stack dev skills by learning new languages & frameworks, tools & plugins, and current conventions / best practices
 - 🌱 I’m currently learning JavaScript, Python, Ruby and C#
 
