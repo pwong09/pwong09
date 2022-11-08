@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pearl Wong (they/them)
 - 👀 I’m interested in improving my full stack dev skills by learning new languages & frameworks, tools & plugins, and current conventions / best practices
-- 🌱 I’m currently learning JavaScript, Python, Ruby and C#
+- 🌱 I’m currently working in Ruby, Rails, JavaScript, Typescript, and React
 
 Full-Stack Software Developer with a background in economics and community organizing.   
 Passionate about accessible products and improving user experiences and engagement.   
