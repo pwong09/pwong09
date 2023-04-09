@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pearl Wong (they/them)
+- 👋 Hi, I’m Pearl Wong. My pronouns are they/them.
 - 👀 I’m interested in improving my full stack dev skills by learning new languages & frameworks, tools & plugins, and current conventions / best practices
 - 🌱 I’m currently working in Ruby, Rails, JavaScript, Typescript, and React
 
